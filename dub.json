@@ -1,0 +1,8 @@
+{
+	"name": "zalastaxlibd",
+	"description": "Helper code not specific for a certain project.",
+	"copyright": "Copyright © 2015, Pierre Krafft",
+	"authors": ["Pierre Krafft"],
+	"dependencies": {
+	}
+}
